@@ -17,6 +17,9 @@
   background: #7ab97a;
   color: #fff;
 }
+.dlt-btn {
+  background: #fa9b9c;
+}
 
 .grid-container {
   display: grid;
